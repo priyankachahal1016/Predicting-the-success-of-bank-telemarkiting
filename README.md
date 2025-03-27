@@ -1,4 +1,4 @@
-# Predicting the success of Bank telemarkating
+# Predicting the success of Bank telemarketing
 
 ## Project Overview
 This project employs a structured approach to data analysis, integrating both univariate and multivariate analysis techniques to gain insights and build predictive models. The workflow includes data preprocessing, feature engineering, model selection, hyperparameter tuning, and threshold adjustments.
